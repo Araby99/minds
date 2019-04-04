@@ -1,0 +1,2 @@
+# minds
+Magazine Minds
